@@ -1,0 +1,3 @@
+- we have a disk image it s a data type that stores a comlete drive
+- - Disk images are binary files, but inside them you can often find **human-readable text** (like flags, file names, or ASCII messages).
+- The `strings` utility scans a binary file and extracts sequences of printable characters.
